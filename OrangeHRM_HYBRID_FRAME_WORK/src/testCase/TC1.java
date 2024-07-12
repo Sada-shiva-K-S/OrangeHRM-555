@@ -32,6 +32,6 @@ public class TC1 extends baseScript
 	public void githubtestcase()
 	{
 		System.out.println("Hello");
-		
+		System.out.println("Hi");
 	}
 }
