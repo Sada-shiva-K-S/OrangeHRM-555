@@ -28,4 +28,10 @@ public class TC1 extends baseScript
 		hp.save().click();
 		Assert.fail();
 	}
+	@Test
+	public void githubtestcase()
+	{
+		System.out.println("Hello");
+		System.out.println("Hi");
+	}
 }
